@@ -40,5 +40,3 @@ if h >= 50:
     i = screensize()
     print(i[0]+i[1])
     screensize(i[0]+h*100/4,i[1]+h*100/4)
-    pass
-    
